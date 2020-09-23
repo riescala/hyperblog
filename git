@@ -1,0 +1,53 @@
+[1mdiff --git a/comandos.txt b/comandos.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..cebf2bc[m
+[1m--- /dev/null[m
+[1m+++ b/comandos.txt[m
+[36m@@ -0,0 +1,22 @@[m
+[32m+[m[32mComandos básicos en la terminal:[m
+[32m+[m
+[32m+[m[32mpwd: Nos muestra la ruta de carpetas en la que te encuentras ahora mismo.[m
+[32m+[m[32mmkdir: Nos permite crear carpetas (por ejemplo, mkdir Carpeta-Importante).[m
+[32m+[m[32mtouch: Nos permite crear archivos (por ejemplo, touch archivo.txt).[m
+[32m+[m[32mrm: Nos permite borrar un archivo o carpeta (por ejemplo, rm archivo.txt). Mucho cuidado con este comando, puedes borrar todo tu disco duro.[m
+[32m+[m[32mcat: Ver el contenido de un archivo (por ejemplo, cat nombre-archivo.txt).[m
+[32m+[m[32mls: Nos permite cambiar ver los archivos de la carpeta donde estamos ahora mismo. Podemos usar uno o más argumentos para ver más información sobre estos archivos (los argumentos pueden ser -- + el nombre del argumento o - + una sola letra o shortcut por cada argumento).[m
+[32m+[m[32m- ls -a: Mostrar todos los archivos, incluso los ocultos.[m
+[32m+[m[32m- ls -l: Ver todos los archivos como una lista.[m
+[32m+[m[32mcd: Nos permite navegar entre carpetas.[m
+[32m+[m[32m- cd /: Ir a la ruta principal:[m
+[32m+[m[32m- cd o cd ~: Ir a la ruta de tu usuario[m
+[32m+[m[32m- cd carpeta/subcarpeta: Navegar a una ruta dentro de la carpeta donde estamos ahora mismo.[m
+[32m+[m[32m- cd .. (cd + dos puntos): Regresar una carpeta hacia atrás.[m
+[32m+[m[32m- Si quieres referirte al directorio en el que te encuentras ahora mismo puedes usar cd . (cd + un punto).[m
+[32m+[m[32mhistory: Ver los últimos comandos que ejecutamos y un número especial con el que podemos repetir su ejecución.[m
+[32m+[m[32m! + número: Ejecutar algún comando con el número que nos muestra el comando history (por ejemplo, !72).[m
+[32m+[m[32mclear: Para limpiar la terminal. También podemos usar los atajos de teclado Ctrl + L o Command + L.[m
+[32m+[m[32mTodos estos comandos tiene una función de autocompletado, o sea, puedes escribir la primera parte y presionar la tecla Tab para que la terminal nos muestre todas las posibles carpetas o comandos que podemos ejecutar. Si presionas la tecla Arriba puedes ver el último comando que ejecutamos.[m
+[32m+[m
+[32m+[m[32mRecuerda que podemos descubrir todos los argumentos de un comando con el argumento --help (por ejemplo, cat --help).[m
+\ No newline at end of file[m
+[1mdiff --git a/git.docx b/git.docx[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+<C:\Users\RICHARD\AppData\Local\Temp/Q9EhHx_git.docx> does not seem to be a docx file!
+[1mdiff --git a/historia.txt b/historia.txt[m
+[1mindex 5b6795f..de7ff3f 100644[m
+[1m--- a/historia.txt[m
+[1m+++ b/historia.txt[m
+[36m@@ -3,8 +3,4 @@[m [mEsta es la historia de Riacrdo Escalante[m
+ Ricardo tiene 38 aÃ±os y nacion en Colombia, [m
+ viviendo en todo el mundo[m
+ [m
+[31m-Hoy hablaremos de su historia[m
+[31m-[m
+[31m-en camara parece alto pero en realidad no lo es[m
+[31m-[m
+[31m-hoy es estudiante de platzi[m
+\ No newline at end of file[m
+[32m+[m[32mHoy hablaremos de su historia[m
+\ No newline at end of file[m
+[1mdiff --git a/~$git.docx b/~$git.docx[m
+[1mnew file mode 100644[m
+[1mindex 0000000..b02032f[m
+Failed to extract required information from <C:\Users\RICHARD\AppData\Local\Temp/8qRlTb_~$git.docx>!
